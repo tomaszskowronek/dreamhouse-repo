@@ -2,7 +2,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -17,7 +17,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -32,7 +32,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -47,7 +47,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/applications",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/applications",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -62,7 +62,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/applications/DreamHouse.app-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/applications/DreamHouse.app-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -77,7 +77,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -92,7 +92,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Bot",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Bot",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -107,7 +107,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Bot/Bot.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Bot/Bot.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -122,7 +122,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Bot/Bot.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Bot/Bot.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -137,7 +137,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Bot/Bot.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Bot/Bot.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -152,7 +152,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Bot/Bot.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Bot/Bot.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -167,7 +167,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Bot/BotController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Bot/BotController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -182,7 +182,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Bot/BotHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Bot/BotHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -197,7 +197,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Bot/BotRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Bot/BotRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -212,7 +212,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/DaysOnMarketEstimator",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/DaysOnMarketEstimator",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -227,7 +227,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/DaysOnMarketEstimator/DaysOnMarketEstimator.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/DaysOnMarketEstimator/DaysOnMarketEstimator.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -242,7 +242,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/DaysOnMarketEstimator/DaysOnMarketEstimator.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/DaysOnMarketEstimator/DaysOnMarketEstimator.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -257,7 +257,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/DaysOnMarketEstimator/DaysOnMarketEstimator.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/DaysOnMarketEstimator/DaysOnMarketEstimator.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -272,7 +272,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/DaysOnMarketEstimator/DaysOnMarketEstimator.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/DaysOnMarketEstimator/DaysOnMarketEstimator.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -287,7 +287,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/DaysOnMarketEstimator/DaysOnMarketEstimator.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/DaysOnMarketEstimator/DaysOnMarketEstimator.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -302,7 +302,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/DaysOnMarketEstimator/DaysOnMarketEstimatorController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/DaysOnMarketEstimator/DaysOnMarketEstimatorController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -317,7 +317,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/DaysOnMarketEstimator/DaysOnMarketEstimatorHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/DaysOnMarketEstimator/DaysOnMarketEstimatorHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -332,7 +332,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDashboard",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDashboard",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -347,7 +347,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDashboard/EinsteinVisionDashboard.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDashboard/EinsteinVisionDashboard.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -362,7 +362,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDashboard/EinsteinVisionDashboard.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDashboard/EinsteinVisionDashboard.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -377,7 +377,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDashboard/EinsteinVisionDashboard.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDashboard/EinsteinVisionDashboard.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -392,7 +392,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDashboard/EinsteinVisionDashboardController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDashboard/EinsteinVisionDashboardController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -407,7 +407,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDashboard/EinsteinVisionDashboardHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDashboard/EinsteinVisionDashboardHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -422,7 +422,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDataset",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDataset",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -437,7 +437,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDataset/EinsteinVisionDataset.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDataset/EinsteinVisionDataset.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -452,7 +452,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDataset/EinsteinVisionDataset.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDataset/EinsteinVisionDataset.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -467,7 +467,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDataset/EinsteinVisionDataset.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDataset/EinsteinVisionDataset.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -482,7 +482,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDataset/EinsteinVisionDatasetController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDataset/EinsteinVisionDatasetController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -497,7 +497,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDataset/EinsteinVisionDatasetHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDataset/EinsteinVisionDatasetHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -512,7 +512,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDatasetEvent",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDatasetEvent",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -527,7 +527,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDatasetEvent/EinsteinVisionDatasetEvent.evt",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDatasetEvent/EinsteinVisionDatasetEvent.evt",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -542,7 +542,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDatasetEvent/EinsteinVisionDatasetEvent.evt-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionDatasetEvent/EinsteinVisionDatasetEvent.evt-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -557,7 +557,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionEvent",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionEvent",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -572,7 +572,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionEvent/EinsteinVisionEvent.evt",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionEvent/EinsteinVisionEvent.evt",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -587,7 +587,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionEvent/EinsteinVisionEvent.evt-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/EinsteinVisionEvent/EinsteinVisionEvent.evt-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -602,7 +602,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/FormattedDate",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/FormattedDate",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -617,7 +617,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/FormattedDate/FormattedDate.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/FormattedDate/FormattedDate.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -632,7 +632,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/FormattedDate/FormattedDate.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/FormattedDate/FormattedDate.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -647,7 +647,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/FormattedDate/FormattedDateController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/FormattedDate/FormattedDateController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -662,7 +662,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -677,7 +677,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map/Map.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map/Map.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -692,7 +692,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map/Map.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map/Map.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -707,7 +707,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map/Map.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map/Map.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -722,7 +722,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map/Map.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map/Map.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -737,7 +737,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map/Map.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map/Map.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -752,7 +752,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map/MapController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map/MapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -767,7 +767,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map/MapHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map/MapHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -782,7 +782,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map/MapRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/Map/MapRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -797,7 +797,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MapCard",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MapCard",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -812,7 +812,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MapCard/MapCard.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MapCard/MapCard.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -827,7 +827,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MapCard/MapCard.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MapCard/MapCard.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -842,7 +842,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MapCard/MapCard.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MapCard/MapCard.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -857,7 +857,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MapCard/MapCard.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MapCard/MapCard.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -872,7 +872,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MapCard/MapCard.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MapCard/MapCard.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -887,7 +887,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MapCard/MapCardController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MapCard/MapCardController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -902,7 +902,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageCalculator",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageCalculator",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -917,7 +917,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -932,7 +932,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -947,7 +947,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -962,7 +962,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -977,7 +977,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -992,7 +992,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageCalculator/MortgageCalculatorController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageCalculator/MortgageCalculatorController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1007,7 +1007,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageCalculator/MortgageCalculatorHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageCalculator/MortgageCalculatorHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1022,7 +1022,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageChange",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageChange",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1037,7 +1037,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageChange/MortgageChange.evt",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageChange/MortgageChange.evt",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1052,7 +1052,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageChange/MortgageChange.evt-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/MortgageChange/MortgageChange.evt-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1067,7 +1067,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureCarousel",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureCarousel",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1082,7 +1082,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureCarousel/PictureCarousel.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureCarousel/PictureCarousel.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1097,7 +1097,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureCarousel/PictureCarousel.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureCarousel/PictureCarousel.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1112,7 +1112,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureCarousel/PictureCarousel.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureCarousel/PictureCarousel.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1127,7 +1127,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureCarousel/PictureCarouselController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureCarousel/PictureCarouselController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1142,7 +1142,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureCarousel/PictureCarouselHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureCarousel/PictureCarouselHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1157,7 +1157,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureCarousel/PictureCarouselRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureCarousel/PictureCarouselRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1172,7 +1172,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureGalleryCard",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureGalleryCard",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1187,7 +1187,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureGalleryCard/PictureGalleryCard.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureGalleryCard/PictureGalleryCard.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1202,7 +1202,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureGalleryCard/PictureGalleryCard.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureGalleryCard/PictureGalleryCard.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1217,7 +1217,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureGalleryCard/PictureGalleryCard.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureGalleryCard/PictureGalleryCard.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1232,7 +1232,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureGalleryCard/PictureGalleryCard.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureGalleryCard/PictureGalleryCard.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1247,7 +1247,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureGalleryCard/PictureGalleryCard.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureGalleryCard/PictureGalleryCard.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1262,7 +1262,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureGalleryCard/PictureGalleryCardController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PictureGalleryCard/PictureGalleryCardController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1277,7 +1277,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PriceRange",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PriceRange",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1292,7 +1292,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PriceRange/PriceRange.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PriceRange/PriceRange.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1307,7 +1307,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PriceRange/PriceRange.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PriceRange/PriceRange.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1322,7 +1322,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PriceRange/PriceRange.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PriceRange/PriceRange.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1337,7 +1337,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PriceRange/PriceRange.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PriceRange/PriceRange.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1352,7 +1352,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PriceRange/PriceRange.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PriceRange/PriceRange.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1367,7 +1367,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PriceRange/PriceRangeController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PriceRange/PriceRangeController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1382,7 +1382,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PriceRange/PriceRangeRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PriceRange/PriceRangeRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1397,7 +1397,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyDaysOnMarketChart",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyDaysOnMarketChart",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1412,7 +1412,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1427,7 +1427,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1442,7 +1442,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1457,7 +1457,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1472,7 +1472,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1487,7 +1487,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChartController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChartController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1502,7 +1502,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChartHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChartHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1517,7 +1517,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyListDaysOnMarketChart",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyListDaysOnMarketChart",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1532,7 +1532,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyListDaysOnMarketChart/PropertyListDaysOnMarketChart.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyListDaysOnMarketChart/PropertyListDaysOnMarketChart.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1547,7 +1547,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyListDaysOnMarketChart/PropertyListDaysOnMarketChart.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyListDaysOnMarketChart/PropertyListDaysOnMarketChart.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1562,7 +1562,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyListDaysOnMarketChart/PropertyListDaysOnMarketChart.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyListDaysOnMarketChart/PropertyListDaysOnMarketChart.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1577,7 +1577,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyListDaysOnMarketChart/PropertyListDaysOnMarketChart.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyListDaysOnMarketChart/PropertyListDaysOnMarketChart.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1592,7 +1592,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyListDaysOnMarketChart/PropertyListDaysOnMarketChart.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyListDaysOnMarketChart/PropertyListDaysOnMarketChart.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1607,7 +1607,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyListDaysOnMarketChart/PropertyListDaysOnMarketChartController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyListDaysOnMarketChart/PropertyListDaysOnMarketChartController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1622,7 +1622,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyListDaysOnMarketChart/PropertyListDaysOnMarketChartHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyListDaysOnMarketChart/PropertyListDaysOnMarketChartHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1637,7 +1637,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyPageChange",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyPageChange",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1652,7 +1652,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyPageChange/PropertyPageChange.evt",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyPageChange/PropertyPageChange.evt",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1667,7 +1667,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyPageChange/PropertyPageChange.evt-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyPageChange/PropertyPageChange.evt-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1682,7 +1682,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyPaginator",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyPaginator",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1697,7 +1697,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyPaginator/PropertyPaginator.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyPaginator/PropertyPaginator.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1712,7 +1712,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyPaginator/PropertyPaginator.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyPaginator/PropertyPaginator.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1727,7 +1727,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyPaginator/PropertyPaginator.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyPaginator/PropertyPaginator.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1742,7 +1742,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyPaginator/PropertyPaginatorController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyPaginator/PropertyPaginatorController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1757,7 +1757,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertySummary",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertySummary",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1772,7 +1772,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertySummary/PropertySummary.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertySummary/PropertySummary.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1787,7 +1787,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertySummary/PropertySummary.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertySummary/PropertySummary.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1802,7 +1802,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertySummary/PropertySummary.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertySummary/PropertySummary.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1817,7 +1817,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertySummary/PropertySummary.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertySummary/PropertySummary.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1832,7 +1832,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertySummary/PropertySummary.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertySummary/PropertySummary.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1847,7 +1847,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertySummary/PropertySummaryController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertySummary/PropertySummaryController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1862,7 +1862,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTile",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTile",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1877,7 +1877,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTile/PropertyTile.auradoc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTile/PropertyTile.auradoc",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1892,7 +1892,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTile/PropertyTile.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTile/PropertyTile.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1907,7 +1907,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTile/PropertyTile.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTile/PropertyTile.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1922,7 +1922,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTile/PropertyTile.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTile/PropertyTile.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1937,7 +1937,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTile/PropertyTileController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTile/PropertyTileController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1952,7 +1952,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTileList",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTileList",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1967,7 +1967,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTileList/PropertyTileList.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTileList/PropertyTileList.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1982,7 +1982,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTileList/PropertyTileList.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTileList/PropertyTileList.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1997,7 +1997,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTileList/PropertyTileList.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTileList/PropertyTileList.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2012,7 +2012,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTileList/PropertyTileList.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTileList/PropertyTileList.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2027,7 +2027,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTileList/PropertyTileList.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTileList/PropertyTileList.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2042,7 +2042,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTileList/PropertyTileListController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTileList/PropertyTileListController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2057,7 +2057,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTileList/PropertyTileListHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/PropertyTileList/PropertyTileListHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2072,7 +2072,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/RangeChange",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/RangeChange",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -2087,7 +2087,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/RangeChange/RangeChange.evt",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/RangeChange/RangeChange.evt",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2102,7 +2102,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/RangeChange/RangeChange.evt-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/RangeChange/RangeChange.evt-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2117,7 +2117,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartHome",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartHome",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -2132,7 +2132,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartHome/SmartHome.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartHome/SmartHome.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2147,7 +2147,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartHome/SmartHome.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartHome/SmartHome.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2162,7 +2162,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartHome/SmartHome.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartHome/SmartHome.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2177,7 +2177,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartHome/SmartHome.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartHome/SmartHome.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2192,7 +2192,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartHome/SmartHome.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartHome/SmartHome.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2207,7 +2207,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartHome/SmartHomeController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartHome/SmartHomeController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2222,7 +2222,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLights",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLights",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -2237,7 +2237,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLights/SmartLights.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLights/SmartLights.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2252,7 +2252,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLights/SmartLights.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLights/SmartLights.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2267,7 +2267,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLights/SmartLights.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLights/SmartLights.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2282,7 +2282,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLights/SmartLights.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLights/SmartLights.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2297,7 +2297,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLights/SmartLightsController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLights/SmartLightsController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2312,7 +2312,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLights/SmartLightsHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLights/SmartLightsHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2327,7 +2327,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLocks",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLocks",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -2342,7 +2342,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLocks/SmartLocks.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLocks/SmartLocks.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2357,7 +2357,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLocks/SmartLocks.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLocks/SmartLocks.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2372,7 +2372,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLocks/SmartLocks.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLocks/SmartLocks.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2387,7 +2387,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLocks/SmartLocksController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLocks/SmartLocksController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2402,7 +2402,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLocks/SmartLocksHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartLocks/SmartLocksHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2417,7 +2417,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartPriceCalculator",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartPriceCalculator",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -2432,7 +2432,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartPriceCalculator/SmartPriceCalculator.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartPriceCalculator/SmartPriceCalculator.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2447,7 +2447,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartPriceCalculator/SmartPriceCalculator.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartPriceCalculator/SmartPriceCalculator.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2462,7 +2462,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartPriceCalculator/SmartPriceCalculator.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartPriceCalculator/SmartPriceCalculator.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2477,7 +2477,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartPriceCalculator/SmartPriceCalculator.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartPriceCalculator/SmartPriceCalculator.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2492,7 +2492,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartPriceCalculator/SmartPriceCalculator.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartPriceCalculator/SmartPriceCalculator.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2507,7 +2507,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartPriceCalculator/SmartPriceCalculatorController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartPriceCalculator/SmartPriceCalculatorController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2522,7 +2522,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartPriceCalculator/SmartPriceCalculatorHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartPriceCalculator/SmartPriceCalculatorHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2537,7 +2537,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartThermostat",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartThermostat",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -2552,7 +2552,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartThermostat/SmartThermostat.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartThermostat/SmartThermostat.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2567,7 +2567,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartThermostat/SmartThermostat.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartThermostat/SmartThermostat.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2582,7 +2582,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartThermostat/SmartThermostat.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartThermostat/SmartThermostat.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2597,7 +2597,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartThermostat/SmartThermostatController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/aura/SmartThermostat/SmartThermostatController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2612,7 +2612,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -2627,7 +2627,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotController.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2642,7 +2642,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotController.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotController.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2657,7 +2657,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotField.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotField.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2672,7 +2672,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotField.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotField.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2687,7 +2687,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotHandler.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotHandler.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2702,7 +2702,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotHandler.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotHandler.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2717,7 +2717,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotItem.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotItem.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2732,7 +2732,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotItem.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotItem.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2747,7 +2747,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotMessage.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotMessage.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2762,7 +2762,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotMessage.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotMessage.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2777,7 +2777,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotMessageButton.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotMessageButton.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2792,7 +2792,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotMessageButton.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotMessageButton.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2807,7 +2807,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotRecord.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotRecord.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2822,7 +2822,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotRecord.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotRecord.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2837,7 +2837,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotResponse.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotResponse.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2852,7 +2852,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotResponse.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/BotResponse.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2867,7 +2867,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/DreamHouseSampleDataController.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/DreamHouseSampleDataController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2882,7 +2882,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/DreamHouseSampleDataController.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/DreamHouseSampleDataController.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2897,7 +2897,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/EinsteinVisionController.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/EinsteinVisionController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2912,7 +2912,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/EinsteinVisionController.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/EinsteinVisionController.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2927,7 +2927,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/HttpFormBuilder.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/HttpFormBuilder.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2942,7 +2942,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/HttpFormBuilder.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/HttpFormBuilder.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2957,7 +2957,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/JWT.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/JWT.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -2972,7 +2972,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/JWT.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/JWT.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -2987,7 +2987,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/JWTBearerFlow.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/JWTBearerFlow.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -3002,7 +3002,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/JWTBearerFlow.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/JWTBearerFlow.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3017,7 +3017,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/LIFXController.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/LIFXController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -3032,7 +3032,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/LIFXController.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/LIFXController.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3047,7 +3047,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/PropertyController.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/PropertyController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -3062,7 +3062,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/PropertyController.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/PropertyController.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3077,7 +3077,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/PropertyControllerTest.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/PropertyControllerTest.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -3092,7 +3092,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/PropertyControllerTest.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/PropertyControllerTest.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3107,7 +3107,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/PropertyPagedResult.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/PropertyPagedResult.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -3122,7 +3122,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/PropertyPagedResult.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/classes/PropertyPagedResult.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3137,7 +3137,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/contentassets",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/contentassets",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3152,7 +3152,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/contentassets/dreamhouselogosquare.asset",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/contentassets/dreamhouselogosquare.asset",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -3167,7 +3167,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/contentassets/dreamhouselogosquare.asset-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/contentassets/dreamhouselogosquare.asset-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3182,7 +3182,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/flexipages",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/flexipages",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3197,7 +3197,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/flexipages/Command_Center.flexipage-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/flexipages/Command_Center.flexipage-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3212,7 +3212,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/flexipages/Einstein_Vision.flexipage-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/flexipages/Einstein_Vision.flexipage-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3227,7 +3227,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/flexipages/Property_Explorer.flexipage-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/flexipages/Property_Explorer.flexipage-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3242,7 +3242,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/flexipages/Property_Record_Page.flexipage-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/flexipages/Property_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3257,7 +3257,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/flexipages/dreamhouseApplicationUtilityBar.flexipage-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/flexipages/dreamhouseApplicationUtilityBar.flexipage-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3272,7 +3272,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/layouts",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/layouts",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3287,7 +3287,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/layouts/Bot_Command__c-Bot Action Layout.layout-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/layouts/Bot_Command__c-Bot Action Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3302,7 +3302,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/layouts/Broker__c-Broker Layout.layout-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/layouts/Broker__c-Broker Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3317,7 +3317,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/layouts/Favorite__c-Favorite Layout.layout-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/layouts/Favorite__c-Favorite Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3332,7 +3332,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/layouts/Property__c-Property Layout.layout-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/layouts/Property__c-Property Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3347,7 +3347,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3362,7 +3362,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3377,7 +3377,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c/Bot_Command__c.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c/Bot_Command__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3392,7 +3392,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c/fields",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c/fields",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3407,7 +3407,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c/fields/Active__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c/fields/Active__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3422,7 +3422,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c/fields/Apex_Class__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c/fields/Apex_Class__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3437,7 +3437,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c/fields/Pattern__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c/fields/Pattern__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3452,7 +3452,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c/fields/Sample_Utterance__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c/fields/Sample_Utterance__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3467,7 +3467,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c/listViews",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c/listViews",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3482,7 +3482,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c/listViews/All.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Bot_Command__c/listViews/All.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3497,7 +3497,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3512,7 +3512,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/Broker__c.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/Broker__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3527,7 +3527,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/compactLayouts",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/compactLayouts",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3542,7 +3542,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/compactLayouts/Broker_Compact.compactLayout-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/compactLayouts/Broker_Compact.compactLayout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3557,7 +3557,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/fields",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/fields",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3572,7 +3572,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/fields/Email__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/fields/Email__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3587,7 +3587,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/fields/Mobile_Phone__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/fields/Mobile_Phone__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3602,7 +3602,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/fields/Phone__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/fields/Phone__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3617,7 +3617,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/fields/Picture_IMG__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/fields/Picture_IMG__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3632,7 +3632,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/fields/Picture__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/fields/Picture__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3647,7 +3647,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/fields/Title__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/fields/Title__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3662,7 +3662,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/listViews",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/listViews",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3677,7 +3677,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/listViews/All.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Broker__c/listViews/All.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3692,7 +3692,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3707,7 +3707,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/Dreamhouse_Settings__c.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/Dreamhouse_Settings__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3722,7 +3722,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/fields",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/fields",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3737,7 +3737,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/fields/Einstein_Vision_Email__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/fields/Einstein_Vision_Email__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3752,7 +3752,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/fields/LIFX_Token__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/fields/LIFX_Token__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3767,7 +3767,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/fields/LIFX_URL__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/fields/LIFX_URL__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3782,7 +3782,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/fields/Light_Service_URL__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/fields/Light_Service_URL__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3797,7 +3797,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/fields/Push_Server_URL__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/fields/Push_Server_URL__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3812,7 +3812,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/fields/Slack_Opportunity_Webhook_URL__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/fields/Slack_Opportunity_Webhook_URL__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3827,7 +3827,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/fields/Slack_Property_Webhook_URL__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Dreamhouse_Settings__c/fields/Slack_Property_Webhook_URL__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3842,7 +3842,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Favorite__c",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Favorite__c",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3857,7 +3857,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Favorite__c/Favorite__c.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Favorite__c/Favorite__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3872,7 +3872,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Favorite__c/fields",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Favorite__c/fields",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3887,7 +3887,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Favorite__c/fields/Property__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Favorite__c/fields/Property__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3902,7 +3902,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Favorite__c/fields/User__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Favorite__c/fields/User__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3917,7 +3917,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Favorite__c/listViews",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Favorite__c/listViews",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3932,7 +3932,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Favorite__c/listViews/All.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Favorite__c/listViews/All.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3947,7 +3947,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3962,7 +3962,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/Property__c.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/Property__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -3977,7 +3977,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/compactLayouts",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/compactLayouts",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -3992,7 +3992,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/compactLayouts/Property_Compact_Layout.compactLayout-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/compactLayouts/Property_Compact_Layout.compactLayout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4007,7 +4007,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -4022,7 +4022,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Address__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Address__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4037,7 +4037,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Assessed_Value__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Assessed_Value__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4052,7 +4052,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Baths__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Baths__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4067,7 +4067,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Beds__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Beds__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4082,7 +4082,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Broker__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Broker__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4097,7 +4097,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/City__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/City__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4112,7 +4112,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Date_Agreement__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Date_Agreement__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4127,7 +4127,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Date_Closed__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Date_Closed__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4142,7 +4142,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Date_Contracted__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Date_Contracted__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4157,7 +4157,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Date_Listed__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Date_Listed__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4172,7 +4172,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Date_Pre_Market__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Date_Pre_Market__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4187,7 +4187,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Days_On_Market__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Days_On_Market__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4202,7 +4202,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Description__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Description__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4217,7 +4217,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Location__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Location__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4232,7 +4232,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Picture_IMG__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Picture_IMG__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4247,7 +4247,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Picture__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Picture__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4262,7 +4262,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Price__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Price__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4277,7 +4277,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Record_Link__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Record_Link__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4292,7 +4292,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/State__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/State__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4307,7 +4307,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Status__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Status__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4322,7 +4322,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Tags__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Tags__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4337,7 +4337,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Thumbnail_IMG__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Thumbnail_IMG__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4352,7 +4352,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Thumbnail__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Thumbnail__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4367,7 +4367,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Title__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Title__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4382,7 +4382,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Zip__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/fields/Zip__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4397,7 +4397,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/listViews",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/listViews",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -4412,7 +4412,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/listViews/All.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Property__c/listViews/All.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4427,7 +4427,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/pages",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/pages",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -4442,7 +4442,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/pages/DreamHouseSampleData.page",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/pages/DreamHouseSampleData.page",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4457,7 +4457,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/pages/DreamHouseSampleData.page-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/pages/DreamHouseSampleData.page-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4472,7 +4472,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/pages/HeatMap.page",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/pages/HeatMap.page",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4487,7 +4487,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/pages/HeatMap.page-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/pages/HeatMap.page-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4502,7 +4502,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/pages/HeatMapMock.page",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/pages/HeatMapMock.page",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4517,7 +4517,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/pages/HeatMapMock.page-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/pages/HeatMapMock.page-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4532,7 +4532,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/permissionsets",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/permissionsets",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -4547,7 +4547,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/permissionsets/DreamHousePerm.permissionset-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/permissionsets/DreamHousePerm.permissionset-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4562,7 +4562,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/quickActions",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/quickActions",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -4577,7 +4577,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/quickActions/Property__c.Smart_Home.quickAction-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/quickActions/Property__c.Smart_Home.quickAction-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4592,7 +4592,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -4607,7 +4607,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/countup7.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/countup7.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4622,7 +4622,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/countup7.resource-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/countup7.resource-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4637,7 +4637,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/heatmap.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/heatmap.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4652,7 +4652,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/heatmap.resource-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/heatmap.resource-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4667,7 +4667,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/heatmapmock.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/heatmapmock.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4682,7 +4682,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/heatmapmock.resource-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/heatmapmock.resource-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4697,7 +4697,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -4712,7 +4712,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/images",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/images",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -4727,7 +4727,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4742,7 +4742,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/images/layers.png",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/images/layers.png",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4757,7 +4757,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4772,7 +4772,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4787,7 +4787,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4802,7 +4802,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/leaflet-src.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/leaflet-src.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4817,7 +4817,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/leaflet.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/leaflet.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4832,7 +4832,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/leaflet.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet/leaflet.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4847,7 +4847,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet.resource-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet.resource-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -4862,7 +4862,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -4877,7 +4877,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/images",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/images",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -4892,7 +4892,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/images/layers-2x.png",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/images/layers-2x.png",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4907,7 +4907,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/images/layers.png",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/images/layers.png",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4922,7 +4922,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/images/marker-icon-2x.png",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/images/marker-icon-2x.png",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4937,7 +4937,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/images/marker-icon.png",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/images/marker-icon.png",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4952,7 +4952,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/images/marker-shadow.png",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/images/marker-shadow.png",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4967,7 +4967,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/leaflet-src.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/leaflet-src.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4982,7 +4982,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/leaflet-src.map",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/leaflet-src.map",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -4997,7 +4997,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/leaflet.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/leaflet.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -5012,7 +5012,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/leaflet.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1/leaflet.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -5027,7 +5027,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1.resource-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/leaflet1.resource-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -5042,7 +5042,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/nouislider",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/nouislider",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -5057,7 +5057,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/nouislider/nouislider.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/nouislider/nouislider.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -5072,7 +5072,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/nouislider/nouislider.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/nouislider/nouislider.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -5087,7 +5087,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/nouislider/nouislider.min.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/nouislider/nouislider.min.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -5102,7 +5102,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/nouislider/nouislider.min.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/nouislider/nouislider.min.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -5117,7 +5117,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/nouislider.resource-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/staticresources/nouislider.resource-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -5132,7 +5132,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -5147,7 +5147,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Bot_Command__c.tab-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Bot_Command__c.tab-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -5162,7 +5162,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Broker__c.tab-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Broker__c.tab-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -5177,7 +5177,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Command_Center.tab-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Command_Center.tab-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -5192,7 +5192,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Einstein_Vision.tab-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Einstein_Vision.tab-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -5207,7 +5207,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Heat_Map.tab-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Heat_Map.tab-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -5222,7 +5222,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Heat_Map_Mock.tab-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Heat_Map_Mock.tab-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -5237,7 +5237,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Property_Explorer1.tab-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Property_Explorer1.tab-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -5252,7 +5252,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Property__c.tab-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Property__c.tab-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -5267,7 +5267,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Sample_Data_Import.tab-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Sample_Data_Import.tab-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -5282,7 +5282,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/triggers",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/triggers",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -5297,7 +5297,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/triggers/PushNotificationTrigger.trigger",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/triggers/PushNotificationTrigger.trigger",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -5312,7 +5312,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/triggers/PushNotificationTrigger.trigger-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/triggers/PushNotificationTrigger.trigger-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -5327,7 +5327,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/triggers/RejectDuplicateFavorite.trigger",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/triggers/RejectDuplicateFavorite.trigger",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -5342,7 +5342,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/triggers/RejectDuplicateFavorite.trigger-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/triggers/RejectDuplicateFavorite.trigger-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -5357,7 +5357,7 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project",
             "isDirectory": true,
             "isMetadataFile": false,
