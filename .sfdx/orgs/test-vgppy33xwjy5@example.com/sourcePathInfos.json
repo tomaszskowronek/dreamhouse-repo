@@ -3349,14 +3349,13 @@
         {
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects",
             "isDirectory": true,
-            "size": 256,
-            "modifiedTime": 1532061478466,
-            "changeTime": 1534791562848,
-            "contentHash": "4b9480beebffaab15acb7e49730fbb62eaf17a73",
+            "size": 288,
+            "modifiedTime": 1536388084008,
+            "changeTime": 1536388084008,
+            "contentHash": "7fb5ebe2ca037574e2dbcab5c503c86cda0ba016",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -5237,14 +5236,14 @@
     [
         "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Property_Explorer1.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/tabs/Property_Explorer1.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 328,
             "modifiedTime": 1536350737623,
             "changeTime": 1536350737623,
-            "contentHash": "d77abb5af7efc64a92657e970ec9c94134d1eed9"
+            "contentHash": "d77abb5af7efc64a92657e970ec9c94134d1eed9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -5358,13 +5357,154 @@
             "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project",
             "isDirectory": true,
             "size": 416,
-            "modifiedTime": 1536303061955,
-            "changeTime": 1536303061955,
-            "contentHash": "c09111fd0b664a4344062e07d97c9d583bfd8396",
+            "modifiedTime": 1536391104497,
+            "changeTime": 1536391104497,
+            "contentHash": "a3fcd6d01f43b57e5c7a10f26925650d943316bd",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/Users/tskowronek/dreamhouse_sfdx_project/temo",
+        {
+            "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/temo",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1536389700428,
+            "changeTime": 1536389700428,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/tskowronek/dreamhouse_sfdx_project/temo/main",
+        {
+            "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/temo/main",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1536389700430,
+            "changeTime": 1536389700430,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tskowronek/dreamhouse_sfdx_project/temo/main/default",
+        {
+            "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/temo/main/default",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1536389700427,
+            "changeTime": 1536389700427,
+            "contentHash": "6dd19893420f151927655f6bf0589244b9ee4859",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tskowronek/dreamhouse_sfdx_project/temo/main/default/objects",
+        {
+            "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/temo/main/default/objects",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1536389705883,
+            "changeTime": 1536389705883,
+            "contentHash": "8cda4e793d182d701fbb0d3a07f06f4bd6b2fc03",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tskowronek/dreamhouse_sfdx_project/temo/main/default/objects/Account",
+        {
+            "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/temo/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1536389705881,
+            "changeTime": 1536389705881,
+            "contentHash": "48cec6aef632803ba5c0677bd6e52a3b108559a8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tskowronek/dreamhouse_sfdx_project/temo/main/default/objects/Account/fields",
+        {
+            "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/temo/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1536389682646,
+            "changeTime": 1536389682646,
+            "contentHash": "167b00b6699683e85784c6885d0543f790a2eaa8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tskowronek/dreamhouse_sfdx_project/temo/main/default/objects/Account/fields/Active__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/temo/main/default/objects/Account/fields/Active__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 810,
+            "modifiedTime": 1536392890668,
+            "changeTime": 1536392890668,
+            "contentHash": "598c45429d5c2aa569f4962051092089828fe503"
+        }
+    ],
+    [
+        "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Account",
+        {
+            "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1536388103326,
+            "changeTime": 1536388103326,
+            "contentHash": "48cec6aef632803ba5c0677bd6e52a3b108559a8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Account/fields",
+        {
+            "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1536388084009,
+            "changeTime": 1536388084009,
+            "contentHash": "167b00b6699683e85784c6885d0543f790a2eaa8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Account/fields/Active__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/tskowronek/dreamhouse_sfdx_project/force-app/main/default/objects/Account/fields/Active__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 798,
+            "modifiedTime": 1536392742341,
+            "changeTime": 1536392742341,
+            "contentHash": "fe7e538019a317ae86373a48d13b7574669885f4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]

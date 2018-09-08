@@ -2,18 +2,41 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "default": true,
-            "package": "DreamhousePackage",
-            "versionName": "Version 2.0",
-            "versionNumber": "2.0.0.NEXT"
+            "package": "DreamhousePackage1",
+            "versionName": "Version 1.0",
+            "versionNumber": "1.0.0.NEXT",
+            "default": false
+        },
+        {
+            "path": "temo",
+            "package": "DreamhousePackage5",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
+        },
+        {
+            "path": "temo",
+            "package": "DreamhousePackage7",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "43.0",
     "packageAliases": {
-        "DreamhousePackage": "0Ho1J000000KyjLSAS",
-        "DreamhousePackage@1.0.0-1": "04t1J000000dmR0QAI",
-        "DreamhousePackage@2.0.0-1": "04t1J000000PzZ1QAK"
+        "DreamhousePackage1": "0Ho0b000000GmdcCAC",
+        "DreamhousePackage1@1.0.0-1": "04t0b000001LSXEAA4",
+        "DreamhousePackage1@1.0.0-2": "04t0b000001LSjmAAG",
+        "DreamhousePackage1@1.0.0-3": "04t0b000001LSjrAAG",
+        "DreamhousePackage1@1.0.0-4": "04t0b000001LV0KAAW",
+        "DreamhousePackage1@1.0.0-5": "04t0b000001LV4XAAW",
+        "DreamhousePackage5": "0Ho0b000000GmdrCAC",
+        "DreamhousePackage5@0.1.0-1": "04t0b000001LVCsAAO",
+        "DreamhousePackage5@0.1.0-2": "04t0b000001LVCxAAO",
+        "DreamhousePackage7": "0Ho0b000000GmdwCAC",
+        "DreamhousePackage5@0.1.0-3": "04t0b000001LVD2AAO",
+        "DreamhousePackage5@0.1.0-4": "04t0b000001LVD7AAO"
     }
 }
